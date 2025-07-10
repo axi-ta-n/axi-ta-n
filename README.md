@@ -8,8 +8,9 @@
 - 🎓 Pursuing B.E. in Computer Science at UIET, PU Chandigarh (2021–2025)  
 - 🌱 Learning Full-Stack Development, Machine Learning, and Deep Learning  
 - 🧠 Interested in combining data, AI, and web technologies to build real-world applications  
-- 🤝 Currently mentoring juniors in data visualization and Tableau under DIC  
-- ✨ Passionate about building smart web apps with React, Node.js, MongoDB, and integrating ML models  
+- 🤝 Mentored juniors in data visualization and Tableau
+- ✨ Passionate about building smart web apps with React, Node.js, MongoDB, and integrating ML models
+- 😁 I make jokes , I take jokes
 
 ---
 
