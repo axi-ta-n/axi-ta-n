@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshita  
 🎓 Computer Science Engineering Student at UIET, Panjab University  
-💻 Aspiring Software Engineer 
+💻 Aspiring Software Engineer | Data Enthusiast
 
 ---
 
