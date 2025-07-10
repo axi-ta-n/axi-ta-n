@@ -31,6 +31,20 @@
 ### 💻 Tools & IDEs  
 `VS Code` `Jupyter Notebook` `Google Colab` `Git` `GitHub`
 
+### 🗄️ Databases
+`NoSQL: MongoDB`
+`SQL: MySQL`
+### 📊 BI & Data Tools
+`Power BI`
+`Tableau`
+`Excel`
+`Google Looker Studio`
+### 🧪 Tools & IDEs
+`VS Code`
+`PyCharm`
+`Google Colab`
+`Jupyter Notebook`
+
 ---
 
 ## 📊 GitHub Stats
