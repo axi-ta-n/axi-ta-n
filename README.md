@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshita  
+🎓 Computer Science Engineering Student at UIET, Panjab University  
+💻 Aspiring Software Engineer 
 
-<!--
-**axi-ta-n/axi-ta-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Pursuing B.E. in Computer Science at UIET, PU Chandigarh (2021–2025)  
+- 🌱 Learning Full-Stack Development, Machine Learning, and Deep Learning  
+- 🧠 Interested in combining data, AI, and web technologies to build real-world applications  
+- 🤝 Currently mentoring juniors in data visualization and Tableau under DIC  
+- ✨ Passionate about building smart web apps with React, Node.js, MongoDB, and integrating ML models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Languages  
+`C++` `Python` `JavaScript` `HTML5` `CSS3`
+
+### 📚 Frameworks & Libraries  
+`React.js` `Node.js` `Express.js` `Scikit-learn` `TensorFlow` `OpenCV`
+
+### 🧠 ML & Tools  
+`Pandas` `NumPy` `Tableau` `Google Looker` `Figma` `Excel`
+
+### 🗃️ Databases  
+`MongoDB` `SQL`
+
+### 💻 Tools & IDEs  
+`VS Code` `Jupyter Notebook` `Google Colab` `Git` `GitHub`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axi-ta-n&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axi-ta-n&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axi-ta-n&theme=radical)  
+
+---
+
+## 📫 Reach Me
+- ✉️ Email: akshitanandal@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/akshita-480a69250
+- 🧠 Fun fact: I love combining storytelling with data, and turning ideas into interactive experiences.
+
